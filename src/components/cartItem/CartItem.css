@@ -32,6 +32,12 @@
 .carticon-remove__icon:active {
   color: red;
 }
+.cartitems-btn__quantity {
+  cursor: pointer;
+  background: #fff;
+  border: none;
+  font-size: 20px;
+}
 .cartitems-quantity {
   width: 64px;
   height: 50px;
